@@ -18,7 +18,7 @@
 # 项目列表 
 | 序号 | 项目名称 | 代码仓库 | 联络人 | 是否已打hacktoberfest标签 | 说明 |
 |--|--|--|--|--|--|
-| 1 | 月光宝盒 MoonBox | https://github.com/vivo/MoonBox | [@2020Labs](https://github.com/labs2020) | 一款无侵入的流量录制与回放平台，Java 技术栈 |
+| 1 | 月光宝盒 MoonBox | https://github.com/vivo/MoonBox | [@2020Labs](https://github.com/labs2020) | 是 |一款无侵入的流量录制与回放平台，Java 技术栈 |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
