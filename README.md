@@ -39,7 +39,7 @@
 |--|--|--|--|--|--|
 | 1 | [月光宝盒 MoonBox](https://github.com/vivo/MoonBox) | 一款无侵入的流量录制与回放平台，Java 技术栈 | [@2020Labs](https://github.com/labs2020) | 是 | - |
 | 2 | [API-Testing](https://github.com/LinuxSuRen/api-testing) | 致力于提高代码质量的接口测试工具 | [@LinuxSuRen](https://github.com/LinuxSuRen) | 是 | - |
-| 3 |  |  |  |  |  |
+| 3 | [LF Edge eKuiper](https://github.com/lf-edge/ekuiper) |  Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | - |
 | 4 |  |  |  |  |  |
 | 5 |  |  |  |  |  |
 
