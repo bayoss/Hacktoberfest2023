@@ -38,9 +38,9 @@
 # 牵手项目列表 
 | 序号 | 项目 | 说明 | 联络人 | 是否已打hacktoberfest标签 | 备注 |
 |--|--|--|--|--|--|
-| 1 | [月光宝盒 MoonBox](https://github.com/vivo/MoonBox) | 一款无侵入的流量录制与回放平台，Java 技术栈 | [@2020Labs](https://github.com/labs2020) | 是 | - |
-| 2 | [API-Testing](https://github.com/LinuxSuRen/api-testing) | 致力于提高代码质量的接口测试工具 | [@LinuxSuRen](https://github.com/LinuxSuRen) | 是 | - |
-| 3 | [LF Edge eKuiper](https://github.com/lf-edge/ekuiper) |  Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | - |
-| 4 |  |  |  |  |  |
+| 1 | [月光宝盒 MoonBox](https://github.com/vivo/MoonBox) | 一款无侵入的流量录制与回放平台，  | [@2020Labs](https://github.com/labs2020) | 是 | Java技术栈 |
+| 2 | [API-Testing](https://github.com/LinuxSuRen/api-testing) | 致力于提高代码质量的接口测试工具 | [@LinuxSuRen](https://github.com/LinuxSuRen) | 是 | Go |
+| 3 | [LF Edge eKuiper](https://github.com/lf-edge/ekuiper) |  Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | Go |
+| 4 | [NanoMQ](https://github.com/emqx/nanomq) | NanoMQ 是于 2021 年初发布的边缘计算开源项目，是面向物联网边缘计算场景的下一代轻量级高性能 MQTT 消息服务器。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | C |
 | 5 |  |  |  |  |  |
 
