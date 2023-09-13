@@ -21,6 +21,7 @@
 - 贡献指南：确保你的项目有完善的贡献指南文件，如 CONTRIBUTION.md 
 - 标签引导：为自己的项目仓库加上 #hacktoberfest 标签；为待完成的 Issue 加上 #hacktoberfest 标签
 - 新手友好：为适合新手的 Issue 加上 #GoodFirstIssue 标签
+- 尽早反馈：给已经通过合并的PR，加上 #hacktoberfest-accepted 标签 
 
 ## 开发者如何参加 🧔🧑‍🤝‍🧑🙍 
 - 首先需要在9月26号开始，通过 Hacktoberfest 活动官网注册登记 https://hacktoberfest.com/ 
