@@ -8,7 +8,7 @@
 
 ### 关于 Hacktoberfest 2023 | 十月黑客节 
 
-十月黑客节 2023 ：在10月份一整个月内，通过 GitHub 或 GitLab 平台，完成 4 个 PR 的提交并合并，即可获得一份专属数字徽章和礼物！  🌴🌴🌴  💝💝💝
+十月黑客节 2023 ：在10月份一整个月内，通过 GitHub 或 GitLab 平台，完成 4 个 PR（代码或非代码贡献均可） 的提交并合并，即可获得一份专属数字徽章和礼物！  🌴🌴🌴  💝💝💝
 - Hacktoberfest 官网  https://hacktoberfest.com 
 
 
@@ -42,5 +42,10 @@
 | 2 | [API-Testing](https://github.com/LinuxSuRen/api-testing) | 致力于提高代码质量的接口测试工具 | [@LinuxSuRen](https://github.com/LinuxSuRen) | 是 | Go |
 | 3 | [LF Edge eKuiper](https://github.com/lf-edge/ekuiper) |  Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | Go |
 | 4 | [NanoMQ](https://github.com/emqx/nanomq) | NanoMQ 是于 2021 年初发布的边缘计算开源项目，是面向物联网边缘计算场景的下一代轻量级高性能 MQTT 消息服务器。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | C |
-| 5 |  |  |  |  |  |
+| 5 | [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler)|Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code.|[Niko-Zeng](https://github.com/Niko-Zeng)| 是 | Java技术栈，WEB前端 TypeScript ｜
+| 6 |  |  |  |  |  |
+| 7 |  |  |  |  |  |
+| 8 |  |  |  |  |  |
+| 9 |  |  |  |  |  |
+| 10 |  |  |  |  |  |
 
