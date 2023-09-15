@@ -1,4 +1,4 @@
-# Hacktoberfest 2023 in the Great Bay Area 
+# Hacktoberfest 2023 in the Greater Bay Area 
 # 大湾区十月黑客节 
 ## 开源项目牵手活动 
 
