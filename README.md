@@ -4,7 +4,7 @@
 
 **“Hacktoberfest 2023 in the Great Bay Area 大湾区十月黑客节”** 由 【BayOSS 湾区开源驿站】发起，并已在 Hacktoberfest 官方活动注册，获得许可使用活动品牌资源。 🚀🚀🚀 
 
-- 牵手活动在 Hacktoberfest 注册的活动地址 TODO（审核中）
+- 本次牵手活动在 Hacktoberfest 官方注册的活动地址，欢迎所有人的注册 https://events.mlh.io/events/10221-hacktoberfest-2023-in-the-great-bay-area
 
 ### 关于 Hacktoberfest 2023 | 十月黑客节 
 
