@@ -45,7 +45,7 @@
 | 4 | [NanoMQ](https://github.com/emqx/nanomq) | NanoMQ 是于 2021 年初发布的边缘计算开源项目，是面向物联网边缘计算场景的下一代轻量级高性能 MQTT 消息服务器。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | C |
 | 5 | [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler)|Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code.|[Niko-Zeng](https://github.com/Niko-Zeng)| 是 | Java技术栈，WEB前端 TypeScript ｜
 | 6 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | WasmEdge (Project under CNCF) is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications.  | [@alabuelei1](https://github.com/alabulei1) | Yes | Rust and WebAssembly |
-| 7 |  |  |  |  |  |
+| 7 | [Apache Kyuubi](https://github.com/apache/kyuubi)  | a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.  |  [pan3793](https://github.com/pan3793) | Yes | Scala,Java  |
 | 8 |  |  |  |  |  |
 | 9 |  |  |  |  |  |
 | 10 |  |  |  |  |  |
