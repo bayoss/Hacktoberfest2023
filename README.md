@@ -44,7 +44,7 @@
 | 3 | [LF Edge eKuiper](https://github.com/lf-edge/ekuiper) |  Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | Go |
 | 4 | [NanoMQ](https://github.com/emqx/nanomq) | NanoMQ 是于 2021 年初发布的边缘计算开源项目，是面向物联网边缘计算场景的下一代轻量级高性能 MQTT 消息服务器。 | [@luzizhuo](https://github.com/luzizhuo) | 是 | C |
 | 5 | [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler)|Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code.|[Niko-Zeng](https://github.com/Niko-Zeng)| 是 | Java技术栈，WEB前端 TypeScript ｜
-| 6 |  |  |  |  |  |
+| 6 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | WasmEdge (Project under CNCF) is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications.  | [@alabuelei1](https://github.com/alabulei1) | Yes | Rust and WebAssembly |
 | 7 |  |  |  |  |  |
 | 8 |  |  |  |  |  |
 | 9 |  |  |  |  |  |
