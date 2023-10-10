@@ -46,7 +46,7 @@
 | 5 | [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler)|Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code.|[Niko-Zeng](https://github.com/Niko-Zeng)| 是 | Java技术栈，WEB前端 TypeScript ｜
 | 6 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | WasmEdge (Project under CNCF) is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications.  | [@alabuelei1](https://github.com/alabulei1) | Yes | Rust and WebAssembly |
 | 7 | [Apache Kyuubi](https://github.com/apache/kyuubi)  | a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.  |  [pan3793](https://github.com/pan3793) | Yes | Scala,Java  |
-| 8 | [OSKM 开源知识地图](https://github.com/OpenSourceKM/oskm) | 说明：OSKM ~ Knowledge Map of Open Source 开源知识地图，旨在通过开放协作来开发和维护一个开源领域的公共知识地图，用于指导个人及组织学习、研究、使用、参与贡献开源，以及创建自己的开源项目与社区，制定自己的开源战略，从而推动实现开源生态的可持续发展。 | [nodex](@nodex) | 是 | 非代码项目  |
+| 8 | [OSKM 开源知识地图](https://github.com/OpenSourceKM/oskm) | 说明：OSKM ~ Knowledge Map of Open Source 开源知识地图，旨在通过开放协作来开发和维护一个开源领域的公共知识地图，用于指导个人及组织学习、研究、使用、参与贡献开源，以及创建自己的开源项目与社区，制定自己的开源战略，从而推动实现开源生态的可持续发展。 | [node](@node) | 是 | 非代码项目  |
 | 9 |  |  |  |  |  |
 | 10 |  |  |  |  |  |
 
