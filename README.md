@@ -9,7 +9,8 @@
 ### 关于 Hacktoberfest 2023 | 十月黑客节 
 
 十月黑客节 2023 ：在10月份一整个月内，通过 GitHub 或 GitLab 平台，完成 4 个 PR（代码或非代码贡献均可） 的提交并合并，即可获得一份专属数字徽章和礼物！  🌴🌴🌴  💝💝💝
-- Hacktoberfest 官网  https://hacktoberfest.com 
+- Hacktoberfest 官网  
+- https://hacktoberfest.com
 
 
 ## 开源项目如何报名牵手活动 ✋✋✋ 
